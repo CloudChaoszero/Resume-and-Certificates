@@ -7,3 +7,7 @@ _____
 # Quick Links
 
 [Resume](https://github.com/CloudChaoszero/Resume-and-Certificates/blob/master/Raul-Maldonado-Online-Resume-2017.pdf)
+
+[Kaggle Challenge](https://github.com/CloudChaoszero/Kaggle-Instacart-Market-Basket-Analysis)
+
+[Current Data Analyst Project](https://github.com/CloudChaoszero/P2-Investigate-a-Dataset)
