@@ -4,6 +4,6 @@ A display of my data analytic achievements from various online websites. To proj
 
 _____
 
-# Resume
+# Quick Links
 
-![Resume](https://github.com/CloudChaoszero/Resume-and-Certificates/blob/master/Raul-Maldonado-Online-Resume-2017.pdf)
+[Resume](https://github.com/CloudChaoszero/Resume-and-Certificates/blob/master/Raul-Maldonado-Online-Resume-2017.pdf)
